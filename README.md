@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Priyanka8924/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Priyanka8924/leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Priyanka8924/leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
@@ -24,9 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Priyanka8924/leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Priyanka8924/leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Priyanka8924/leetcode/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Priyanka8924/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
