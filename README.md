@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Priyanka8924/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Priyanka8924/leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Priyanka8924/leetcode/tree/master/0796-rotate-string) |
 | [2299-strong-password-checker-ii](https://github.com/Priyanka8924/leetcode/tree/master/2299-strong-password-checker-ii) |
 ## Array
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Priyanka8924/leetcode/tree/master/0048-rotate-image) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Priyanka8924/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
