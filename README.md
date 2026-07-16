@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Priyanka8924/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Priyanka8924/leetcode/tree/master/0048-rotate-image) |
+| [0238-product-of-array-except-self](https://github.com/Priyanka8924/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0867-transpose-matrix](https://github.com/Priyanka8924/leetcode/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Priyanka8924/leetcode/tree/master/0796-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyanka8924/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
