@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Priyanka8924/leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Priyanka8924/leetcode/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Priyanka8924/leetcode/tree/master/0796-rotate-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyanka8924/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2299-strong-password-checker-ii](https://github.com/Priyanka8924/leetcode/tree/master/2299-strong-password-checker-ii) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Priyanka8924/leetcode/tree/master/0179-largest-number) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyanka8924/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Priyanka8924/leetcode/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyanka8924/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
