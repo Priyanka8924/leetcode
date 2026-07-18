@@ -9,7 +9,7 @@ class Solution {
 
                 String temp = number.substring(0, i) + number.substring(i + 1);
 
-                if (ans.equals("") || temp.compareTo(ans) > 0) {
+                if ( temp.compareTo(ans) > 0) {
                     ans = temp;
                 }
             }
