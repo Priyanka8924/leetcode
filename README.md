@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Priyanka8924/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Priyanka8924/leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Priyanka8924/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Priyanka8924/leetcode/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/Priyanka8924/leetcode/tree/master/0796-rotate-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Priyanka8924/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2299-strong-password-checker-ii](https://github.com/Priyanka8924/leetcode/tree/master/2299-strong-password-checker-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Priyanka8924/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Priyanka8924/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Priyanka8924/leetcode/tree/master/0383-ransom-note) |
 ## Enumeration
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyanka8924/leetcode/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Priyanka8924/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
