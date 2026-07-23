@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Priyanka8924/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/Priyanka8924/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanka8924/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Priyanka8924/leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Priyanka8924/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanka8924/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Priyanka8924/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanka8924/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Priyanka8924/leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Priyanka8924/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Priyanka8924/leetcode/tree/master/1089-duplicate-zeros) |
 ## Matrix
 |  |
 | ------- |
