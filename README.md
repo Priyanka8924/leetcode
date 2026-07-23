@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Priyanka8924/leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Priyanka8924/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Priyanka8924/leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Priyanka8924/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/Priyanka8924/leetcode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanka8924/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Priyanka8924/leetcode/tree/master/1920-build-array-from-permutation) |
