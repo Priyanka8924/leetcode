@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanka8924/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Priyanka8924/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/Priyanka8924/leetcode/tree/master/0867-transpose-matrix) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Priyanka8924/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanka8924/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Priyanka8924/leetcode/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Priyanka8924/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Priyanka8924/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Priyanka8924/leetcode/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Priyanka8924/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String Matching
 |  |
 | ------- |
