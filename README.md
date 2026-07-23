@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanka8924/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Priyanka8924/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/Priyanka8924/leetcode/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Priyanka8924/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Priyanka8924/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanka8924/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Priyanka8924/leetcode/tree/master/1920-build-array-from-permutation) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanka8924/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Priyanka8924/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Priyanka8924/leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Priyanka8924/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanka8924/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Priyanka8924/leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Priyanka8924/leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Priyanka8924/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
