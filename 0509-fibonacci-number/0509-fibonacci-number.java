@@ -4,7 +4,7 @@ class Solution {
         int b=1;
         int sum=0;
         if(n==1){
-            return sum+1;
+            return 1;
         }
         for(int i=1;i<n;i++){
             
