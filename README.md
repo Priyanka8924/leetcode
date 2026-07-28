@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanka8924/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Priyanka8924/leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Priyanka8924/leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Priyanka8924/leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Priyanka8924/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Priyanka8924/leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Priyanka8924/leetcode/tree/master/0771-jewels-and-stones) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanka8924/leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Priyanka8924/leetcode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Priyanka8924/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Priyanka8924/leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanka8924/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
