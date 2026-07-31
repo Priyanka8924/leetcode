@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Priyanka8924/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanka8924/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Priyanka8924/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanka8924/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Priyanka8924/leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanka8924/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Priyanka8924/leetcode/tree/master/0771-jewels-and-stones) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanka8924/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -151,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Priyanka8924/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Priyanka8924/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
