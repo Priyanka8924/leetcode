@@ -9,7 +9,7 @@ class Solution {
         for(int i=1;i<n;i++){
             
             sum=a+b;
-            int temp=a;
+            //int temp=a;
             a=b;
             b=sum;
 
